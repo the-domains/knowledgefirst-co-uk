@@ -1,0 +1,28 @@
+name: knowledgefirst.co.uk
+favicon: null
+layout_spectrum: 0.7859862204641104
+typography_spectrum: 0.32188251498155296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7294940466526896
+  lightness: 0.10049223806709051
+  saturation: 0.2584693403914571
+  rhythmicContrast: 0.02526302170008421
+purpose: []
